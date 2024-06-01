@@ -64,7 +64,7 @@ const Layout = () => {
         </div>
         <div>
           <Name>김경민</Name>
-          <Description>2024 실전코딩</Description>
+          <Description>Good Luck🍀</Description>
         </div>
       </Profile>
       <Nav>
